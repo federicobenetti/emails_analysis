@@ -1,0 +1,4 @@
+mailbox
+pandas
+openai
+tqdm
